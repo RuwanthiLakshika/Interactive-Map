@@ -1,6 +1,6 @@
-### Interactive Map with React & Leaflet
+### Interactive Map with React Leaflet
 
-an Interactive Map built with React and Leaflet! This app allows users to select and set custom locations with ease, featuring dynamic view adjustments and real-time geolocation integration.
+an Interactive Map built with Next.js and React Leaflet! This app allows users to select and set custom locations with ease, featuring dynamic view adjustments and real-time geolocation integration.
 
 ## ✨ Key Features:
 
