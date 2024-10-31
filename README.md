@@ -13,7 +13,7 @@ an Interactive Map built with Next.js and React Leaflet! This app allows users t
 ## 🔧 Tech Stack:     
 
 
-Frontend: React, Tailwind CSS     
+Frontend: Next.js, Tailwind CSS     
 
 Mapping Library: Leaflet, React-Leaflet     
 
